@@ -1,4 +1,4 @@
-# 🚆 Tourisme durable en train – Analyse et recommandation pour Limoges
+# 🚆 Tourisme durable en train – Analyse et recommandation 
 
 ## 📌 Contexte du projet
 
