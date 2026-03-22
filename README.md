@@ -1,11 +1,12 @@
 # 🚆 Tourisme durable en train – Analyse et recommandation 
+## Challenge Open Data University × SNCF Fondation
 
 ## 📌 Contexte du projet
 
 Ce projet est réalisé dans le cadre du défi **Open Data University – Tourisme en train**.
 L’objectif est d’encourager le tourisme durable en France en facilitant la découverte de destinations accessibles en train.
 
-Nous avons choisi de nous concentrer sur la ville de **Limoges**, afin d’analyser son potentiel touristique et d’identifier des moyens d’encourager les voyageurs à s’y rendre en utilisant le train, un mode de transport à faible empreinte carbone.
+Ville pilote : **Limoges** — Une destination riche et sous-estimée, accessible depuis Paris en 2h15 avec 32× moins de CO₂ qu'en voiture. afin d’analyser son potentiel touristique et d’identifier des moyens d’encourager les voyageurs à s’y rendre en utilisant le train, un mode de transport à faible empreinte carbone.
 
 Le projet combine **analyse de données, machine learning et visualisation** pour proposer des recommandations basées sur les données ouvertes.
 
@@ -15,7 +16,7 @@ Le projet combine **analyse de données, machine learning et visualisation** pou
 
 Les objectifs principaux sont :
 
-* analyser l’accessibilité de Limoges en train
+* analyser l’accessibilité en train
 * identifier les points d’intérêt touristiques autour des gares
 * comparer l’impact carbone du train avec d’autres modes de transport
 * développer un modèle de recommandation de destinations touristiques
@@ -30,8 +31,28 @@ Projet réalisé par :
 -Fokoue reine clean
 -Hiba Brahim
 ---
-
-# 🧱 Architecture du pipeline de données
+# Architecture du projet 
+Sources de données (APIs + CSV)
+          ↓
+    Apache Kafka
+  (Producer → Consumer)
+          ↓
+    MinIO Data Lake
+  ┌──────────────────┐
+  │  Bronze (brut)   │
+  │  Silver (propre) │
+  │  Gold   (ML)     │
+  └──────────────────┘
+          ↓
+  Apache Spark (Docker)
+  (nettoyage + ML)
+          ↓
+    Apache Airflow
+  (orchestration DAG)
+          ↓
+  Dashboard Streamlit
+  + Power BI
+# 🧱 Pipeline de données
 
 Le projet suit une architecture classique de **Data Lake** avec trois couches :
 
@@ -127,7 +148,6 @@ Les modèles utilisés peuvent inclure :
 
 * Random Forest
 * K-Means clustering
-* Régression simple
 
 Les modèles sont évalués à l’aide de métriques simples.
 
@@ -149,7 +169,7 @@ Mettre en place un pipeline complet et produire des visualisations.
 
 Les visualisations permettent par exemple de :
 
-* montrer l’accessibilité de Limoges en train
+* montrer l’accessibilité en train
 * comparer l’impact carbone des différents modes de transport
 * visualiser les zones touristiques autour des gares
 
@@ -176,13 +196,13 @@ La soutenance présentera :
 
 # 🛠️ Technologies utilisées
 
-* Python
-* Pandas
-* Scikit-learn
-* Apache Airflow
-* MinIO
-* Jupyter Notebook
-* outils de visualisation de données
+* Big Data    : Apache Kafka · Apache Spark · MinIO
+* Orchestration : Apache Airflow
+* Langage     : Python 3.13
+* ML          : scikit-learn (Random Forest · K-Means)
+* Dashboard   : Streamlit · Power BI
+* Infra       : Docker Desktop (Windows)
+* Versioning  : Git + GitHub
 
 ---
 
