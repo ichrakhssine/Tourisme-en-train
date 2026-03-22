@@ -1,6 +1,5 @@
-﻿version: '3.8'
+﻿services:
 
-services:
   minio:
     image: quay.io/minio/minio:latest
     container_name: minio
@@ -13,6 +12,48 @@ services:
     volumes:
       - minio_data:/data
     command: server /data --console-address ":9001"
+    restart: unless-stopped
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    container_name: zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    restart: unless-stopped
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    restart: unless-stopped
+
+  spark:
+    image: apache/spark:3.5.0
+    container_name: spark
+    user: root
+    environment:
+      - SPARK_MODE=master
+    volumes:
+      - C:\Tourisme-en-train\scripts:/opt/scripts
+      - C:\Tourisme-en-train\data:/opt/data
+    ports:
+      - "4040:4040"
+      - "7077:7077"
+    command: >
+      bash -c "pip install minio pandas &&
+               tail -f /dev/null"
     restart: unless-stopped
 
 volumes:
