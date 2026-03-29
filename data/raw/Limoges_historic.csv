@@ -1,0 +1,128 @@
+X;Y;osm_id;type;name;ref_mhs;religion;religion_denomination;inscription;build_date;description;wikipedia;civilization;heritage;com_insee;com_nom
+1.2659601;45.8548538003644;node/10049524668;tomb;Famille Haviland;;;;;;;;;;"87085";Limoges
+1.26692;45.8362345003671;node/10076260094;yes;Le Campanile;;;;;;Tour Horloge de 67 mètres;;;;"87085";Limoges
+1.268076;45.8386614003668;node/10076341653;memorial;;;;;;;;;;;"87085";Limoges
+1.2659812;45.8453578003658;node/10083095189;place_of_worship;Église Biblique Baptiste de Limoges;;christian;protestant;;;;;;;"87085";Limoges
+1.2409315;45.8229373003691;node/11752245660;place_of_worship;Waddle Dee;;;;;;;;;;"87085";Limoges
+1.2662864;45.8296354003681;node/12792261674;wayside_cross;;;;;;;;;;;"87085";Limoges
+1.2684906;45.8298289003681;node/12833527707;memorial;;;;;"Ici est né le 29 avril 1762 Jean-Baptiste Comte Jourdan, vainqueur des Fleurus, maréchal e France. 
+Érigé en 1851 sous l'administration de MM. de Mentque préfet & Louis Ardant maire";;;;;;"87085";Limoges
+1.2570002;45.8287273003682;node/13043317070;boundary_stone;;;;;;;;;;;"87085";Limoges
+1.2509966;45.830317400368;node/1480397728;memorial;;;;;Soldats des armées françaises qui dans tout l'univers se sont battus pour la Paix et la Liberté;;;;;;"87085";Limoges
+1.2805982;45.8209848003694;node/2935898739;fountain;;;;;;;;;;;"87085";Limoges
+1.2800018;45.8207206003694;node/2935898753;fountain;;;;;;;;;;;"87085";Limoges
+1.2798847;45.8212224003693;node/2935898754;fountain;;;;;;;;;;;"87085";Limoges
+1.28144;45.8209576003693;node/2935905084;fountain;;;;;;;;;;;"87085";Limoges
+1.2826665;45.8209741003694;node/2935905091;fountain;;;;;;;;;;;"87085";Limoges
+1.2513801;45.8434921003661;node/3884615608;memorial;Mémorial AFN;;;;;;;;;;"87085";Limoges
+1.282624;45.8209388003694;node/3884977276;fountain;;;;;;;;;;;"87085";Limoges
+1.2820823;45.8123318003706;node/3891608837;memorial;;;;;;;;;;;"87085";Limoges
+1.2707535;45.8109554003708;node/3891637383;memorial;Atlas à la roue dentée;;;;;;;;;;"87085";Limoges
+1.2577132;45.8285953003683;node/4012226941;memorial;Pietà;;;;;1869-03-22;;;;;"87085";Limoges
+1.2618969;45.830214800368;node/4079693180;place_of_worship;Ancienne Chapelle des Jésuites;;christian;;;;;;;;"87085";Limoges
+1.2598588;45.8313918003678;node/4123065562;archaeological_site;Crypte Saint-Martial;;;;;;;;;;"87085";Limoges
+1.2600309;45.8269138003685;node/4448809009;fountain;;PA00100361;;;;;;;;"3";"87085";Limoges
+1.2495883;45.8375568003669;node/4554193508;place_of_worship;Salle du Royaume des Témoins de Jéhovah;;christian;jehovahs_witness;;;;;;;"87085";Limoges
+1.2646279;45.8327810003676;node/4705819886;memorial;Monument à la mémoire des Enfants de la Haute-Vienne morts pour la défense de la patrie en 1870-1871;PA87000018;;;;;;fr:Monument à la mémoire des Enfants de la Haute-Vienne morts pour la défense de la Patrie en 1870-1871;;"3";"87085";Limoges
+1.2815326;45.8195167003696;node/4913411583;fountain;;;;;;;;;;;"87085";Limoges
+1.2575411;45.8284883003683;node/5133549758;wayside_cross;;PA00100340;;;;;;;;"2";"87085";Limoges
+1.2595555;45.8264342003686;node/5133549759;hospital;Hôpital municipal;PA00100351;;;;;;;;"3";"87085";Limoges
+1.2655467;45.830131800368;node/5133549761;monastery;;PA00100338;;;;;;;;"3";"87085";Limoges
+1.2568884;45.8319961003678;node/5133549766;fountain;Fontaine des Barres;PA00100347;;;;;;fr:Fontaine des Barres;;"3";"87085";Limoges
+1.252224;45.830352900368;node/5133549767;ruins;Restes des arènes gallo-romaines;PA00100330;;;;;;fr:Arènes de Limoges;;"3";"87085";Limoges
+1.2496451;45.8294480003681;node/5133549768;monastery;Ancien couvent des Carmes;PA00132885;;;;;;;;"2";"87085";Limoges
+1.3053299;45.8986776003579;node/5176892555;castle;Château des Essarts;PA87000001;;;;C17;;fr:Château des Essarts (Haute-Vienne);;"3";"87085";Limoges
+1.1897563;45.8564714003642;node/5176892556;castle;Château de Beauvais;PA00100336;;;;C18;;fr:Château de Beauvais (Limoges);;"2";"87085";Limoges
+1.2652382;45.8355253003672;node/6356720951;fountain;;;;;;;;;;;"87085";Limoges
+1.2651779;45.8357084003672;node/6356720952;fountain;;;;;;;;;;;"87085";Limoges
+1.2650572;45.8358533003672;node/6356720953;fountain;;;;;;;;;;;"87085";Limoges
+1.2577287;45.8400367003666;node/6357838938;fountain;;;;;;;;;;;"87085";Limoges
+1.2601751;45.8390659003667;node/6482026387;fountain;;;;;;;;;;;"87085";Limoges
+1.2243244;45.8152155003702;node/6532504847;memorial;;;;;;;;;;;"87085";Limoges
+1.2680807;45.8289847003682;node/6767608571;fountain;;;;;;;;;;;"87085";Limoges
+1.2779373;45.8482664003654;node/7171499645;fountain;;;;;;;;;;;"87085";Limoges
+1.2607068;45.8267243003685;node/7223512085;memorial;;;;;;;;;;;"87085";Limoges
+1.2634867;45.8317082003678;node/7314655133;memorial;Monument aux morts 1914-1918;;;;;;;;;;"87085";Limoges
+1.2584093;45.8258499003687;node/7475836082;fountain;;;;;;;;;;;"87085";Limoges
+1.2583087;45.8260574003686;node/7475836083;fountain;;;;;;;;;;;"87085";Limoges
+1.2581022;45.8260079003686;node/7475836084;fountain;;;;;;;;;;;"87085";Limoges
+1.2671178;45.8272877003684;node/7729066480;fountain;;;;;;;;;;;"87085";Limoges
+1.26912;45.8291402003682;node/7858348364;fountain;Fontaine de Père-Peigne;;;;;;;;;;"87085";Limoges
+1.2522375;45.8417831003663;node/8118654500;place_of_worship;Dhagpo Limoges;;buddhist;tibetan;;;;;;;"87085";Limoges
+1.2598016;45.8315096003678;node/8287465734;archaeological_site;Ancienne abbaye Saint-Martial;PA00100328;;;;;;fr:Abbaye Saint-Martial de Limoges;;"2";"87085";Limoges
+1.2651673;45.8211628003693;node/8292978325;wayside_cross;Calvaire du 13e siècle;PA00100332;;;;C13;;;;"3";"87085";Limoges
+1.2665055;45.8292594003682;node/8294530560;archaeological_site;Église et baptistère Saint-Jean;PA87000029;christian;;;C5;;;;"2";"87085";Limoges
+1.2566272;45.8204983003694;node/8294530561;archaeological_site;Fragment du mur gallo-romain;PA00100374;;;;C1;;;;"3";"87085";Limoges
+1.252213;45.830131600368;node/8294568563;archaeological_site;Vestiges de l'amphithéâtre gallo-romain;PA00100329;;;;C2;;fr:Amphithéâtre de Limoges;;"2";"87085";Limoges
+1.2405057;45.823679200369;node/8294568564;archaeological_site;Villa gallo-romaine de Sainte-Claire;PA00100536;;;;;;;;"3";"87085";Limoges
+1.2622717;45.8264888003685;node/8394134303;ruins;Therme d'Augustoritum;;;;;;;;roman;;"87085";Limoges
+1.2583607;45.8325174003677;node/8409423190;fountain;Fontaine du Chevalet;;;;;;;;;;"87085";Limoges
+1.2570164;45.8286993003682;node/8411401460;archaeological_site;;;;;;;;;;;"87085";Limoges
+1.2659229;45.8290377003682;node/8433189933;fountain;;;;;;;;;;;"87085";Limoges
+1.2662547;45.8273904003684;node/8437367335;fountain;;;;;;;;;;;"87085";Limoges
+1.3077616;45.911312300356;node/8795141266;wayside_cross;;;;;;;;;;;"87085";Limoges
+1.3032776;45.9108767003561;node/8795141267;wayside_cross;;;;;;;;;;;"87085";Limoges
+1.3035078;45.9109158003561;node/8795141268;memorial;;;;;;;;;;;"87085";Limoges
+1.2740624;45.8221159003692;node/8797631307;memorial;Shimazaki Tôson;;;;;;;;;;"87085";Limoges
+1.2636143;45.8357707003672;node/8914572474;memorial;Prix Châtaignier;;;;;;;;;;"87085";Limoges
+1.2646402;45.8207941003694;node/8925640287;milestone;Borne milliaire;;;;;;;;;;"87085";Limoges
+1.2752033;45.925062000354;node/9224890249;wayside_cross;;;;;;;;;;;"87085";Limoges
+1.2675136;45.8278508003684;node/9881487049;memorial;Khatchkar;;;;;2020-04-23;;fr:Stèle du génocide arménien de Limoges;;;"87085";Limoges
+1.25899489750904;45.830232939358;relation/1107249;manor;Hôtel Muret;PA00100356;;;;;;fr:Hôtel Muret;;"3";"87085";Limoges
+1.28616284462867;45.8274505776513;way/1002368559;lavoir;;;;;;;;;;;"87085";Limoges
+1.22743426070582;45.8300708222703;way/1019731701;place_of_worship;Chapelle Saint-Jean-Baptiste;;christian;;;;;;;;"87085";Limoges
+1.24181172782703;45.8171533677818;way/1025799159;fountain;;;;;;;;;;;"87085";Limoges
+1.26050690096162;45.8312826294805;way/1072825207;fountain;;;;;;;;;;;"87085";Limoges
+1.30259325230332;45.9101885772307;way/1465603836;lavoir;;;;;;;;;;;"87085";Limoges
+1.2732162194549;45.8706367565361;way/223517766;ruins;Substructions gallo-romaines et vestiges de thermes;PA00100382;;;;;;fr:Vestiges gallo-romains d'Uzurat;;"2";"87085";Limoges
+1.25730395355281;45.8302282891299;way/410558311;yes;Fontaine d'Aigoulène;PA00100346;;;;C15;;;;"3";"87085";Limoges
+1.24746815022446;45.8266588026329;way/643146740;fountain;;;;;;;;;;;"87085";Limoges
+1.19521775142576;45.8420374623521;way/70092958;lavoir;;;;;;;;;;;"87085";Limoges
+1.15456512101717;45.8776702149874;way/70096113;castle;;;;;;;;;;;"87085";Limoges
+1.19452893965975;45.8430271099745;way/70098010;place_of_worship;Église Saint-Martial;;christian;catholic;;;;;;;"87085";Limoges
+1.19039979404598;45.8487677921103;way/70100650;manor;;;;;;;;;;;"87085";Limoges
+1.2703893904783;45.8075252112863;way/70112032;place_of_worship;L’Église néo-apostolique;;christian;new_apostolic;;;;;;;"87085";Limoges
+1.26795997882702;45.8012488379404;way/70112250;castle;Château de Fontgeaudrant;;;;;;;;;;"87085";Limoges
+1.27366878533216;45.8258477386273;way/70114682;place_of_worship;Église Sainte-Valérie;;christian;catholic;;;;;;;"87085";Limoges
+1.26680275000153;45.81798985038;way/70115803;lavoir;lavoir de Chantelauve;;;;;;;;;;"87085";Limoges
+1.27903651477044;45.8579480447793;way/70180211;castle;Château de la Bastide;;;;;;;;;;"87085";Limoges
+1.30361341637685;45.9110075872246;way/70180459;place_of_worship;Église Saint-Christophe;PA00100342;christian;;;C12;;;;"3";"87085";Limoges
+1.27845824467897;45.8765170575739;way/70180579;place_of_worship;Église Source de Vie;;christian;assemblies_of_god;;;;;;;"87085";Limoges
+1.23093045606941;45.841836482804;way/70230180;place_of_worship;Église Saint-François;;christian;;;;;;;;"87085";Limoges
+1.22110668121215;45.8328198192954;way/70230251;castle;Pavillon Jambost;;;;;;;;;;"87085";Limoges
+1.21926645268862;45.8166707187692;way/70240032;place_of_worship;L’Église de Jésus-Christ des Saints des Derniers Jours;;christian;latter_day_saints;;;;;;;"87085";Limoges
+1.24170372523201;45.8174286007384;way/70261587;place_of_worship;chapelle du CH Esquirol;;christian;catholic;;;;;;;"87085";Limoges
+1.24542370622659;45.8200144598765;way/70261699;place_of_worship;Église Sainte-Claire;;christian;catholic;;;;;;;"87085";Limoges
+1.2818238027132;45.8465053440477;way/70373291;place_of_worship;Église Centre Notre-Dame;;christian;;;;;;;;"87085";Limoges
+1.28937152932316;45.8522164126031;way/70373783;castle;Château de Faugeras;;;;;;;;;;"87085";Limoges
+1.26869429373852;45.8525345436738;way/70376641;place_of_worship;Église Sainte-Bernadette;;christian;catholic;;;;;;;"87085";Limoges
+1.26276163891438;45.8259135134524;way/70404744;place_of_worship;Chapelle Sainte-Marie;;christian;;;;;;;;"87085";Limoges
+1.26665990231561;45.8251587411863;way/70404822;place_of_worship;Chapelle Saint-Martial;;christian;roman_catholic;;;Amis FSSPX;;;;"87085";Limoges
+1.26338151568437;45.8294206657393;way/70412576;building;;PA00100370;;;;C17;;;;;"87085";Limoges
+1.26664395159529;45.8289063156638;way/70413238;place_of_worship;Cathédrale Saint-Étienne;PA00100333;christian;catholic;;;;fr:Cathédrale Saint-Étienne de Limoges;;"2";"87085";Limoges
+1.26562660577388;45.8300834330336;way/70413505;monastery;Musée de la Résistance;PA00100338;;;;;;;;"3";"87085";Limoges
+1.26160716292531;45.831196125971;way/70413885;church;Église Saint-Pierre-du-Queyroix;PA00100344;christian;catholic;;;;fr:Église Saint-Pierre-du-Queyroix;;"2";"87085";Limoges
+1.23405492247056;45.8246487290997;way/70423300;place_of_worship;Église Sainte-Jeanne d'Arc;;christian;catholic;;;;;;;"87085";Limoges
+1.24708090425608;45.8293497061159;way/70444431;place_of_worship;Église du Sacré-Cœur;;christian;;;;;;;;"87085";Limoges
+1.24468049999627;45.8281022003834;way/70447137;lavoir;;;;;;;;;;;"87085";Limoges
+1.25748492484432;45.8313673682321;way/70518494;manor;Hôtel de Maledent de Savignac de Feytiat;PA00100354;;;;;;fr:Hôtel Maledent de Savignac de Feytiat;;"3";"87085";Limoges
+1.25749133253771;45.8289208669571;way/70518574;ruins;;;;;;;;;;;"87085";Limoges
+1.25738759245761;45.8284029288461;way/70518903;yes;Chapelle Saint-Aurélien;PA00100334;christian;;;C15;;fr:Chapelle Saint-Aurélien de Limoges;;"3";"87085";Limoges
+1.25955371768316;45.8300831380236;way/70518998;manor;Hôtel Bourdeau de Lajudie;PA00100352;;;;;;;;"3";"87085";Limoges
+1.25700818476459;45.8306012535877;way/70519225;place_of_worship;Basilique Saint-Michel-des-Lions;PA00100343;christian;catholic;;;;fr:Église Saint-Michel-des-Lions;;"2";"87085";Limoges
+1.25763783604351;45.8309142016506;way/70519531;manor;Hôtel Estienne de la Rivière;PA00100353;;;;;;;;"3";"87085";Limoges
+1.25752727557825;45.8288960986047;way/70519743;ruins;;;;;;;;;;;"87085";Limoges
+1.25891700259656;45.8355518729445;way/70525312;place_of_worship;Église protestante unie de France;;christian;protestant;;;;;;;"87085";Limoges
+1.26747111843383;45.8362764503422;way/70525848;building;Limoges-Bénédictins;PA00100349;;;;;;fr:Gare de Limoges-Bénédictins;;"3";"87085";Limoges
+1.26796213844202;45.8389024537477;way/70548690;place_of_worship;Église Saint-Paul Saint-Louis;;christian;catholic;;;;;;;"87085";Limoges
+1.26221011389627;45.8461528327666;way/70551607;place_of_worship;Grande Mosquée de Limoges;;muslim;sunni;;;;;;;"87085";Limoges
+1.26525249937482;45.8445228055965;way/70552133;place_of_worship;Chapelle Saint-Antoine des Papillons;;christian;;;;;;;;"87085";Limoges
+1.25228597811661;45.8512553786149;way/70571806;place_of_worship;Église des Saints-Anges;;christian;;;;;;;;"87085";Limoges
+1.25193641379759;45.8342685211925;way/70675473;place_of_worship;Église Adventiste du 7e jour;;christian;seventh_day_adventist;;;;;;;"87085";Limoges
+1.25427749727979;45.8360295561005;way/70675587;place_of_worship;Église Saint-Joseph;;christian;catholic;;;;;;;"87085";Limoges
+1.24340579729471;45.840785369231;way/70676306;place_of_worship;Église Sainte-Thérèse;;christian;catholic;;;;;;;"87085";Limoges
+1.2951450000003;45.8943759003604;way/890823648;wayside_shrine;;;christian;;;;;;;;"87085";Limoges
+1.2642050070282;45.8279527296212;way/903836523;fountain;;;;;;;;;;;"87085";Limoges
+1.26003155708219;45.8269164862883;way/903836528;fountain;;;;;;;;;;;"87085";Limoges
+1.25480993745216;45.8304780348356;way/905760469;fountain;;;;;;;;;;;"87085";Limoges
+1.26661967198354;45.8294887827009;way/908224273;archaeological_site;Fouille;;;;;;;;"medieval;ancient_roman";;"87085";Limoges
